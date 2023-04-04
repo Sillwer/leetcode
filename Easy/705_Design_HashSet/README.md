@@ -31,7 +31,7 @@ myHashSet.contains(2); // return False, (already removed)
 
 **Constraints:**
 
--   `0 <= key <= 10<sup>6</sup>`
--   At most `10<sup>4</sup>` calls will be made to `add`, `remove`, and `contains`.
+-   `0 <= key <= 10^6`
+-   At most `10^4` calls will be made to `add`, `remove`, and `contains`.
 
 https://leetcode.com/problems/design-hashset/
